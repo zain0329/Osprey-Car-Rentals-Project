@@ -1,8 +1,9 @@
-### COP3503 - Number Statistics Project 
+### IDC2000 - Osprey Car Rentals Project 
 
-This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
+This project is a Python program that makes car rental calculations based on 3 different customer classification codes.
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
+![Zain Malik (6)](https://github.com/zain0329/Osprey-Car-Rentals-Project/assets/66034863/825d88a1-92fc-407b-ac1f-091ab79ea145)
+
 
 
 
